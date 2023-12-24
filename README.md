@@ -1,4 +1,2 @@
- I am MD SHAD AHMAD i am Entery Level Java Developer 
- I have to passoinate About coding 
- 
- 
+I am MD SHAD AHMAD specially Java Backend Developer
+I am Expert in Core Java,SpringMVC, SpringBoot,Webservices,Microservices,Building RestApi as well
